@@ -1,0 +1,392 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl MW_bed_feet_end
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_feet_end.png
+map_d skyrace/MW_bed_feet_end.png
+
+newmtl MW_bed_feet_side
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_feet_side.png
+map_d skyrace/MW_bed_feet_side.png
+
+newmtl MW_bed_feet_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_feet_top.png
+map_d skyrace/MW_bed_feet_top.png
+
+newmtl MW_bed_head_end
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_head_end.png
+map_d skyrace/MW_bed_head_end.png
+
+newmtl MW_bed_head_side
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_head_side.png
+map_d skyrace/MW_bed_head_side.png
+
+newmtl MW_bed_head_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/MW_bed_head_top.png
+map_d skyrace/MW_bed_head_top.png
+
+newmtl cactus_side
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/cactus_side.png
+map_d skyrace/cactus_side.png
+
+newmtl cactus_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/cactus_top.png
+map_d skyrace/cactus_top.png
+
+newmtl campfire_fire
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/campfire_fire.png
+map_d skyrace/campfire_fire.png
+
+newmtl campfire_log
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/campfire_log.png
+map_d skyrace/campfire_log.png
+
+newmtl campfire_log_lit
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/campfire_log_lit.png
+map_Ke skyrace/campfire_log_lit.png
+map_d skyrace/campfire_log_lit.png
+
+newmtl deepslate_bricks
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/deepslate_bricks.png
+
+newmtl dirt
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/dirt.png
+
+newmtl fire_coral_fan
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd skyrace/fire_coral_fan.png
+map_d skyrace/fire_coral_fan.png
+
+newmtl grass_block_side
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/grass_block_side_y.png
+
+newmtl grass_block_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/grass_block_top_y.png
+
+newmtl green_glazed_terracotta
+Ns 204.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.240000 0.240000 0.240000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/green_glazed_terracotta.png
+
+newmtl green_wool
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/green_wool.png
+
+newmtl lantern
+Ns 178.500015
+Ka 1.000000 1.000000 1.000000
+Ks 0.210000 0.210000 0.210000
+Ni 1.500000
+illum 2
+map_Kd skyrace/lantern.png
+map_Ke skyrace/lantern.png
+map_d skyrace/lantern.png
+
+newmtl lime_wool
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/lime_wool.png
+
+newmtl magma
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/magma.png
+map_Ke skyrace/magma.png
+
+newmtl medium_amethyst_bud
+Ns 204.000015
+Ka 1.000000 1.000000 1.000000
+Ks 0.240000 0.240000 0.240000
+Ni 1.500000
+illum 2
+map_Kd skyrace/medium_amethyst_bud.png
+map_Ke skyrace/medium_amethyst_bud.png
+map_d skyrace/medium_amethyst_bud.png
+
+newmtl oak_log
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/oak_log.png
+
+newmtl oak_log_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/oak_log_top.png
+
+newmtl oak_planks
+Ns 127.499992
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/oak_planks.png
+
+newmtl prismarine
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/prismarine.png
+
+newmtl red_sand
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/red_sand.png
+
+newmtl red_wool
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/red_wool.png
+
+newmtl sand
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/sand.png
+
+newmtl sandstone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/sandstone.png
+
+newmtl sandstone_bottom
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/sandstone_bottom.png
+
+newmtl sandstone_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/sandstone_top.png
+
+newmtl spruce_planks
+Ns 127.499992
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/spruce_planks.png
+
+newmtl stone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd skyrace/stone.png
+
+newmtl stripped_oak_log
+Ns 127.499992
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/stripped_oak_log.png
+
+newmtl stripped_oak_log_top
+Ns 127.499992
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/stripped_oak_log_top.png
+
+newmtl tinted_glass
+Ns 242.250000
+Ka 1.000000 1.000000 1.000000
+Ks 0.285000 0.285000 0.285000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skyrace/tinted_glass.png
+
+newmtl water_flow
+Ns 216.749954
+Ka 0.200000 0.200000 0.200000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd skyrace/water_flow_y.png
+map_d skyrace/water_flow_y.png
+
+newmtl water_still
+Ns 216.749954
+Ka 0.200000 0.200000 0.200000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd skyrace/water_still_y.png
+map_d skyrace/water_still_y.png
